@@ -35,11 +35,17 @@ The **Send Money App** is a Flutter-powered fintech solution built for Dart Week
 
 ---
 
-## 🖼️ Visual Showcase
+# 🖼️ Visual Showcase
 
-![Send Money UI](./assets/images/send_money_form.png)  
-![Animated Success](./assets/images/animated_success.png)  
-![PLP Banner](./assets/images/plp-banner.png)
+![App Info](./assets/images/send_money_app_info_screen.png)
+![Home Screen](./assets/images/send_money_app_home.png)
+![Currency Screen](./assets/images/send_money_app_currency.png)
+![History Screen](./assets/images/send_money_app_history.png)
+![Main View](./assets/images/Send-money-app.png)
+![App Logo](./assets/images/app_logo.png)
+![PLP Logo](./assets/images/logo.png)
+![PLP Badge](./assets/images/plp-logo.png)
+
 
 ---
 
