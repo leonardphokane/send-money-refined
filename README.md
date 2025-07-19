@@ -35,7 +35,23 @@ The **Send Money App** is a Flutter-powered fintech solution built for Dart Week
 
 ---
 
-# 🖼️ Visual Showcase
+## 🖼️ Visual Showcase
+
+### 💸 Send Money UI Previews  
+A curated look at the core screens within your Flutter fintech build:
+
+| Screen                              | Preview |
+|-------------------------------------|---------|
+| **App Info Screen**                 | send_money_app_info_screen.png |
+| **Home Dashboard**                  | send_money_app_home.png |
+| **Currency Selection Interface**    | send_money_app_currency.png |
+| **Transaction History Screen**      | send_money_app_history.png |
+| **Main App View**                   | Send-money-app.png |
+| **App Logo / Icon**                | app_logo.png |
+
+> *Designed to reflect ZuluTech branding, modular architecture, and secure payment flow.*
+
+---
 
 ![App Info](./assets/images/send_money_app_info_screen.png)
 ![Home Screen](./assets/images/send_money_app_home.png)
@@ -43,8 +59,6 @@ The **Send Money App** is a Flutter-powered fintech solution built for Dart Week
 ![History Screen](./assets/images/send_money_app_history.png)
 ![Main View](./assets/images/Send-money-app.png)
 ![App Logo](./assets/images/app_logo.png)
-![PLP Logo](./assets/images/logo.png)
-![PLP Badge](./assets/images/plp-logo.png)
 
 
 ---
