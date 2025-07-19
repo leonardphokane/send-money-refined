@@ -73,7 +73,7 @@ lib/ ├── screens/ │ ├── home_screen.dart │ ├── send_money_
 ## 🔗 Project Links
 
 - 🌍 Live Demo: [phokane-creative-code.lovable.app](https://phokane-creative-code.lovable.app)  
-- 📊 Pitch Deck: [View on Canva](https://www.canva.com/design/DAGsxJEVKSg/ODdyq2DctbdY100QGlFy9w/edit)  
+- 📊 Pitch Deck: [View on Canva](https://www.canva.com/design/DAGtncHzkEU/d-XQaX8Zl31uuBlv5c7JWw/edit)  
 - 📦 GitHub Repo: [send-money-refined](https://github.com/leonardphokane/send-money-refined)  
 - 🧭 Padlet Archive: [My Distinguished Padlet](https://padlet.com/plp9/my-distinguished-padlet-obiq9mj5yr6u1mxo)
 

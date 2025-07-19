@@ -62,7 +62,15 @@ dependency_overrides:
 flutter:
   assets:
     - assets/images/app_logo.png
-    - send_money_refined/assets/leonard-profile.png
+    - assets/images/leonard-profile.png
+    - assets/images/send_money_app_info_screen.png
+    - assets/images/send_money_app_home.png
+    - assets/images/send_money_app_currency.png
+    - assets/images/send_money_app_history.png
+    - assets/images/Send-money-app.png
+    - assets/images/logo.png
+    - assets/images/plp-logo.png
+
 
 
 
