@@ -85,6 +85,15 @@ Built by **Leonard Phokane** — a storyteller who codes with soul and structure
 
 ---
 
+### 🔰 PLPCommunity & Branding
+
+<img src="./assets/images/logo.png" alt="PLP Logo" width="100"/>
+<img src="./assets/images/plp-logo.png" alt="PLP Badge" width="120"/>
+
+> *Built in collaboration with PLPCommunity — rooted in cultural empowerment and ethical tech.*
+
+---
+
 ## 📈 Roadmap (Post–Week 8)
 
 | Feature                    | Description                                       | Status       |
